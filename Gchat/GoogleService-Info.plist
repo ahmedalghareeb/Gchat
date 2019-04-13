@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1046975030577-llri753b1diq9d6j5pjpufdo29mducv8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1046975030577-llri753b1diq9d6j5pjpufdo29mducv8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtS8UzR96ohMcGdbaJUFmkq8PWtTPDYZ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1046975030577</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ghareeb.Gchat</string>
+	<key>PROJECT_ID</key>
+	<string>gchat-aa142</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gchat-aa142.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1046975030577:ios:778a88783d1cf0d5</string>
+	<key>DATABASE_URL</key>
+	<string>https://gchat-aa142.firebaseio.com</string>
+</dict>
+</plist>
